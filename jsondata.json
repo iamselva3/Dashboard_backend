@@ -1,0 +1,21 @@
+[
+    {
+        "end_year": 2018,
+        "intensity": 6,
+        "sector": "Energy",
+        "topic": "gas",
+        "insight": "Annual Energy Outlook 2017 projections",
+        "url": "http://www.eia.gov/outlooks/aeo/pdf/0383(2017).pdf",
+        "region": "Northern America",
+        "start_year": "",
+        "impact": "",
+        "added": "2017-01-20 03:51:25",
+        "published": "2017-01-09 00:00:00",
+        "country": "United States of America",
+        "relevance": 2,
+        "pestle": "Industries",
+        "source": "EIA",
+        "title": "U.S. natural gas consumption is expected to increase during much of the projection period.",
+        "likelihood": 3
+    }
+]
