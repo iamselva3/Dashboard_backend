@@ -85,6 +85,8 @@ app.use(
 const allowedOrigins = [
   'http://localhost:3000',
   'https://dashboard-frontend-h627j3thb-selvas-projects-cd77bb6e.vercel.app',
+  'https://dashboard-frontend-mocha-eight.vercel.app',
+  'https://dashboard-frontend-bxng.onrender.com/',
 ];
 
 app.use(
