@@ -126,6 +126,13 @@ app.get('/api/health', (req, res) => {
   });
 });
 
+app.get('/', (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: 'Welcome to the Dashboard API 🚀',
+  });
+});
+
 
 app.use(errorHandler);
 
